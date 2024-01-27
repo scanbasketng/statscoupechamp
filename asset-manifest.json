@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/statscoupechamp/static/css/main.4971a92e.css",
+    "main.js": "/statscoupechamp/static/js/main.5d3fb59d.js",
+    "index.html": "/statscoupechamp/index.html",
+    "main.4971a92e.css.map": "/statscoupechamp/static/css/main.4971a92e.css.map",
+    "main.5d3fb59d.js.map": "/statscoupechamp/static/js/main.5d3fb59d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4971a92e.css",
+    "static/js/main.5d3fb59d.js"
+  ]
+}
